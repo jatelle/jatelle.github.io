@@ -1,0 +1,1316 @@
+
+<head>
+<meta name="robots" content="noindex">
+<title> Publications of Jan Arne Telle </title>
+</head>
+<body bgcolor=#FFE9D3>
+
+<A NAME="topp"></a>
+
+<h2> List of Publications of </b><a href="http://www.ii.uib.no/~telle"> Jan Arne Telle </a></b></h2>
+
+<hr>
+<DL>
+
+
+<DD>
+<A HREF="#conference">Conferences</A></DD>
+
+<DD>
+<A HREF="#journal">Journal Articles</A></DD>
+
+<DD>
+<A HREF="#recent">Recent Manuscripts</A></DD>
+
+<DD>
+<A HREF="#books">Books</A></DD>
+
+<DD>
+<A HREF="#int">Technical Reports</A></DD>
+
+<DD>
+<A HREF="#pop">Popular Science</A></DD>
+
+</DL>
+
+
+
+
+<HR><A NAME="recent"></A>
+<H3>Recent Manuscripts</H3>
+<DL>
+
+<p>
+   <dd>
+<b>  The Hierarchy of Saturating Matching Numbers </b>
+<b> (</b><a href="https://arxiv.org/pdf/2503.14061">pdf</a><b>) </b> 
+<br> <i> H.Simon, J.A.Telle
+</i> <br> 
+</dd>
+  <p>
+    <dd>
+      <p>
+   <dd>
+<b> Can adversarial attacks by Large Language Models be attributed? </b> 
+<b> (</b><a href="https://arxiv.org/pdf/2411.08003">pdf</a><b>) </b> 
+<br> <i> M.Cebrian, J.A.Telle
+</i> <br> 
+</dd>
+  <p>
+   <dd>
+<b> When Redundancy Matters: Machine Teaching of Representations </b> 
+<b> (</b><a href="https://arxiv.org/pdf/2401.12711">pdf</a><b>) </b> 
+<br> <i> C.Ferri, D.Garigliotti, B.H&aringvardstun, J. Hern&aacutendez-Orallo, J.A.Telle
+</i> <br> 
+</dd>
+ <p>
+
+
+
+<HR><A NAME="conference"></A>
+<H3>Conferences</H3>
+
+<DL>
+  <p>
+    <dd>
+ <b> Optimal Robust Simplifications for Explaining Time Series Classifications 
+  </b> 
+<b> (</b><a href="https://xai.w.uib.no/files/2024/07/ORS.pdf">pdf</a><b>) </b> 
+<br> <i> J.A. Telle, C. Ferri, B. Håvardstun
+</i> <br> Explainable AI for Time Series and Data Streams Workshop (TempXAI) co-located with ECML-PKDD Conference, 2024
+<p>
+</dd>
+<dd>
+<b> XAI for Time Series Classification: Evaluating the Benefits of Model Inspection for End-Users </b> 
+<b> (</b><a href="https://xai.w.uib.no/files/2024/05/XAI-for-Time-Series-Classification.pdf">pdf</a><b>) </b> 
+<br> <i> B.H&aringvardstun, C. Ferri, K.Flikka, J.A.Telle
+</i> <br>  World Conference on eXplainable Artificial Intelligence, 2024
+</dd>
+ <p>
+<dd>
+<b> On a Combinatorial Problem Arising in Machine Teaching </b> 
+<b> (</b><a href="https://xai.w.uib.no/files/2024/05/On-a-Combinatorial-Problem-Arising-in-Machine-Teaching.pdf">pdf</a><b>) </b> 
+<br> <i> J.Sunde, B.H&aringvardstun, J.Kratochvil,  J.A.Telle
+</i> <br>  International Conference on Machine Learning, ICML 2024
+</dd>
+ <p>  
+<dd>
+<b> An Interactive Tool for Interpretability of Time Series Classification </b> 
+<b> (</b><a href="https://personales.upv.es/ceferra/demoecml.mp4">video</a><b>) </b> 
+<br> <i> B.H&aringvardstun, C. Ferri,  J.A.Telle
+</i> <br>  ECML PKDD Demo Track, 2024
+</dd>
+ <p>  
+   <dd>
+<b> XAI with Machine Teaching when Humans Are
+(Not) Informed about the Irrelevant Features </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/HFHPT.pdf">pdf</a><b>) </b> 
+<br> <i> B.H&aringvardstun, C. Ferri, J. Hern&aacutendez-Orallo, P.Parviainen, J.A.Telle
+</i> <br> ECML 2023, European Conference on Machine Learning, Torino September 2023.
+</dd>
+ <p>
+<dd>
+<b> On the trade-off between fidelity and teaching complexity </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/Windsor.pdf">pdf</a><b>) </b> 
+<br> <i> B.H&aringvardstun, C. Ferri, J. Hern&aacutendez-Orallo, P.Parviainen, J.A.Telle
+</i> <br> Poster at 11th International Workshop on Approaches and Applications of Inductive Programming, AAIP @ IJCLR2022
+</dd>
+<p>
+<dd>
+<b> Recognition of Linear and Star Variants of Leaf Powers is in P </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BHTV21.pdf">pdf</a><b>)</b> 
+<br> <i> B.Bergougnoux, S.H&oslashgemo, J.A.Telle, M.Vatshelle
+</i> <br> Workshop on Graph-Theoretic Concepts in Computer Science, WG 2022
+</dd>
+<p>
+<dd>
+<b> Non-Cheating Teaching Revisited: A New Probabilistic Machine Teaching Model</b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/FHT22.pdf">pdf</a><b>) </b> 
+<br> <i> C. Ferri, J. Hern&aacutendez-Orallo, J.A.Telle
+</i> <br> International Joint Conference on Artificial Intelligence, IJCAI 2022
+</dd>
+<p>  
+<dd>
+<b> Classes of intersection digraphs with good algorithmic properties </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/JKT21b.pdf">pdf</a><b>)</b> 
+<br> <i> L.Jaffke, O.Kwon, J.A.Telle
+</i> <br> Symposium on Theoretical Aspects of Computer Science, STACS 2022
+</dd>
+<p>
+<dd>
+<b> On Dasgupta's Hierarchical Clustering Objective and its relation to other graph parameters </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HBBPT21.pdf">pdf</a><b>)</b> 
+<br> <i> S.H&oslashgemo, B.Bergougnoux, U.Brandes, C.Paul, J.A.Telle
+</i> <br> Fundamentals of Computation Theory - 23rd International Symposium, FCT 2021
+</dd>
+<p>
+<dd>
+<b> Perfect Matching Cut Revisited </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BT21.pdf">pdf</a><b>)</b> 
+<br> <i> Van Bang Le, J.A.Telle
+</i> <br> Workshop on Graph-Theoretic Concepts in Computer Science, WG 2021
+</dd>
+<p>
+<dd>
+<b> Hierarchical Clusterings of Unweighted Graphs </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HPT20.pdf">pdf</a><b>)</b> 
+<br> <i> S.H&oslashgemo, C.Paul, J.A.Telle
+</i> <br> Mathematical Foundations of Computer Science, MFCS 2020
+</dd>
+<p>
+<dd>
+<b> Node Multiway Cut and Subset Feedback Vertex Set on Graphs of Bounded mim-width</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BPT.pdf">pdf</a><b>)</b> 
+<br> <i> B.Bergougnoux, C.Papadopoulos, J.A.Telle
+</i> <br> Workshop on Graph-Theoretic Concepts in Computer Science, WG 2020
+</dd>
+<p>
+<dd>
+<b> Finite and Confident Teaching in Expectation: Sampling from Infinite Concept Classes</b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/HT19.pdf">pdf</a><b>) </b> 
+<br> <i> J. Hern&aacutendez-Orallo, J.A.Telle
+</i> <br> European Conference on Artificial Intelligence, ECAI 2020
+</dd>
+<p>
+<dd>
+<b> Typical Sequences Revisited- Computing Width Parameters of Graphs</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BJT.pdf">pdf</a><b>)</b> 
+<br> <i> H.Bodlaender, L.Jaffke, J.A.Telle
+</i> <br> Symposium on Theoretical Aspects of Computer Science, STACS 2020
+</dd>
+<p>
+<dd>
+<b> Teaching Explanations by Examples </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/FHT2.pdf">pdf</a><b>) </b> 
+<br> <i> C. Ferri, J. Hern&aacutendez-Orallo, J.A.Telle
+</i> <br> Proceedings Machine Intelligence 21 (MI21-HLC) workshop, Windsor UK 2019
+</dd>
+<p>
+<dd>
+<b> The Teaching Size: Computable Teachers and Learners for Universal Languages </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/TFH.pdf">pdf</a><b>) </b> 
+<br> <i> J.A.Telle, C. Ferri, J. Hern&aacutendez-Orallo
+</i> <br> European Conference on Machine Learning, ECML/KPDD 2019
+</dd>
+<p>
+<dd>
+<b> Linear mim-width of trees </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HTV19.pdf">pdf</a><b>)</b> 
+<br> <i> S.H&oslashgemo, J.A.Telle, E.R.V&aringgset
+</i> <br> Proceedings WG 2019
+</dd>
+<p>
+<dd>
+<b> Generalized distance domination problems and graphs of bounded mim-width </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/JKST.pdf">pdf</a><b>)</b> 
+<br> <i> L.Jaffke, O.Kwon, T.Str&oslashmme, J.A.Telle
+</i> <br> Proceedings IPEC 2018
+</dd>
+<p>
+<dd>
+<b> A unified polynomial-time algorithm for feedback vertex set on graphs of bounded mim-width </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/JKT17.pdf">pdf</a><b>)</b> 
+<br> <i> L.Jaffke, O.Kwon, J.A.Telle
+</i> <br> Proceedings STACS 2018
+</dd>
+<p>
+<dd>
+<b> Polynomial-time algorithms for longest induced path and induced disjoint paths problems on graphs of bounded mim-width </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/JKT.pdf">pdf</a><b>) </b> 
+<br> <i> L.Jaffke, O.Kwon, J.A.Telle
+</i> <br> Proceedings IPEC 2017
+</dd>
+<p>
+<dd>
+<b> A width parameter useful for chordal and co-comparability graphs </b> 
+<b> </b> (see journal version for pdf)
+<br> <i> D.Y.Kang, O.Kwon, T.Str&oslashmme, J.A.Telle
+</i> <br> Proceedings WALCOM 2017, LNCS 10167
+</dd>
+<p>
+<dd>
+<b> On satisfiability problems with a linear structure </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/GPST16.pdf">pdf</a><b>)</b> 
+<br> <i>S.Gaspers, C.Papadimitriou, S.S&aeligther, J.A.Telle
+</i> <br> Proceedings IPEC 2016, LIPICS vol 63
+</dd>
+<p>
+<dd>
+<b> Max-matching-width: new characterizations and a fast algorithm for dominating set </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/JST.pdf">pdf</a><b>)</b> 
+<br> <i>J.Jeong, S.S&aeligther , J.A.Telle
+</i> <br> Proceedings IPEC 2015, LNCS
+</dd>
+<p>
+<dd>
+<b> Recognizability equals definability for graphs of bounded treewidth and bounded chordality </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BHT15.pdf">pdf</a><b>)</b> 
+<br> <i>H.Bodlaender, P.Heggernes, J.A.Telle
+</i> <br> Proceedings Eurocomb 2015, Electronic Notes in Discrete Mathematics
+</dd>
+<p>
+<dd>
+<b> Computational complexity of covering three-vertex multigraphs </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/KTT.pdf">pdf</a><b>)</b> 
+<br> <i>J.Kratochvil, J.A.Telle, M.Tesar
+</i> <br> Proceedings MFCS 2014, LNCS 8653, 493-504
+</dd>
+<p>
+<dd>
+<b> Solving MAXSAT and #SAT on structured CNF formulas </b> 
+ <b>(</b><a href="http://www.ii.uib.no/~telle/bib/STV.pdf">pdf</a><b>)</b>  
+<br> <i>S.S&aeligther, J.A.Telle, M.Vatshelle
+</i> <br> Proceedings SAT 2014, LNCS 8561, 16-31
+</dd>
+<p>
+<dd>
+<b> Between treewidth and clique-width </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/ST3.pdf">pdf</a><b>)</b> 
+<br> <i>S.S&aeligther, J.A.Telle
+</i> <br> Proceedings WG 2014, LNCS 8747, 396-407
+</dd>
+<p>
+<dd>
+<b> Upper bounds on boolean-width with applications to exact algorithms </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/RTV13.pdf">pdf</a><b>)</b> 
+<br> <i>Y.Rabinovich, J.A.Telle, M.Vatshelle
+</i> <br> Proceedings IPEC 2013, LNCS 8246, p 308-320
+</dd>
+<p>
+<dd>
+<b> The graph formulation of the union-closed sets conjecture  </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BCT.pdf">pdf</a><b>)</b> 
+<br> <i> Henning Bruhn, Pierre Charbit, Jan Arne Telle
+</i> <br> Proceedings EUROCOMB 2013, CRM Series, ISBN 978-88-7642-474-8, p 73-78
+</dd>
+<p>
+<dd>
+<b> Connecting Terminals and 2-Disjoint Connected Subgraphs  </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/TV2.pdf">pdf</a><b>)</b> 
+<br> <i> J.A.Telle and Y.Villanger
+</i> <br> Proceedings WG 2013, LNCS 8165, p 418-428
+</dd> 
+<p>
+<dd>
+<b> FPT algorithms for domination in biclique-free graphs </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/TV.pdf">pdf</a><b>)</b> 
+<br> <i> J.A.Telle and Y.Villanger
+</i> <br> Proceedings ESA 2012, LNCS, 7501, 802-812, 2012
+
+</dd>
+<p>
+<dd>
+<b> Mike Fellows: Weaving the web of mathematics and adventure </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/mike.pdf">pdf</a><b>)</b> 
+<br> <i> J.A.Telle
+</i> <br> The Multivariate Algorithmic Revolution and Beyond,
+LNCS, Volume 7370, 74-79, 2012
+</dd>
+<p>
+<dd>
+<b> Finding good decompositions for dynamic programming on dense graphs </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HSTV.pdf">pdf</a><b>)</b> 
+<br> <i> E.M.Hvidevold, S.Sharmin, J.A.Telle and M.Vatshelle
+</i> <br> Proceedings IPEC 2011, LNCS 7112, 219-231, 2012
+</dd>
+<p>
+<dd>
+<b> On the boolean-width of a graph: structure and applications </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/ABRRTV.pdf">pdf</a><b>)</b> 
+<br> <i> I.Adler, B-M Bui-Xuan, Y.Rabinovich, G.Renault, J.A.Telle and M.Vatshelle
+</i> <br> Proceedings WG 2010, LNCS, Volume 6410. p. 159-170
+</dd>
+<p>
+<dd>
+<b> Generalized graph clustering: recognizing (p,q)-cluster graphs</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HLNPT.pdf">pdf</a><b>)</b> 
+<br> <i> P.Heggernes, D.Lokshtanov, J.Nederlof, C.Paul, and J.A.Telle
+</i> <br> Proceedings WG 2010, LNCS, Volume 6410. p. 171-183
+</dd>
+<p>
+<dd>
+<b> Boolean-width of graphs </b> 
+<br>  (see journal version for pdf)
+<br> <i> B-M.Bui-Xuan, J.A.Telle and M.Vatshelle
+</i> <br> Proceedings IWPEC 2009, LNCS, 5917, pp. 61-74, 2009
+</dd>
+<p>
+<dd>
+<b> Feedback Vertex Set on Graphs of low Cliquewidth</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BTViwoca.pdf">pdf</a><b>)</b> 
+<br> (See journal version for a faster algorithm)
+<br> <i> B.M.Bui-Xuan, J.A.Telle, M.Vatshelle
+</i> <br> Proceedings IWOCA 2009, LNCS, 5874, pp. 113-124, 2009
+</dd>
+<p>
+<dd>
+<b> Chordal digraphs</b> 
+<br> (see journal version for pdf)
+<br> <i> D.Meister and J.A.Telle
+</i> <br> Proceedings WG 2009, LNCS, Volume 5911. p. 273-284
+</dd>
+<p>
+<dd>
+<b> Leaf powers and their properties: using the trees</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FMRST.pdf">pdf</a><b>)</b> 
+<br> <i> M.Fellows, D.Meister, R.Sritharan, F.Rosamond  and J.A.Telle
+</i> <br> Proceedings ISAAC 2008, LNCS, Volume 5369. p. 402-413
+</dd>
+<p>
+<dd>
+<b> On the complexity of reconstructing $H$-free graphs from their Star Systems</b> 
+<br> (see journal version for pdf)
+<br> <i> F.Fomin, J.Kratochvil, D.Lokshtanov, F.Mancini and J.A.Telle
+</i> <br> Proceedings LATIN 2008, LNCS, Volume 4957. p. 194-205
+</dd>
+<p>
+<dd>
+<b> Characterization and recognition of graphs of bounded Kelly-width</b> 
+<br> (See journal-version: Recognizing digraphs of Kelly-width 2)
+<br> <i> D.Meister, J.A.Telle and M.Vatshelle
+</i> <br> Proceedings WG 2007, LNCS vol 4769, 270-279
+</dd>
+<p>
+<dd>
+<b> Interval completion with few edges</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HPTV.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HPTV.pdf">pdf</a><b>)</b> 
+<br> <i> P.Heggernes, C.Paul, J.A.Telle and Y.Villanger
+</i> <br> Proceedings STOC 2007, ACM, 374-381
+</dd>
+<p>
+<dd>
+<b> Planar decompositions and the crossing number of graphs with an excluded minor</b> 
+<br> (see journal version for pdf)
+<br> <i> Wood and J.A.Telle
+</i> <br> Proceedings Graph Drawing 2006, LNCS vol 4372
+</dd>
+<p>
+<dd>
+<b> Towards a taxonomy of techniques for designing parameterized algorithms</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/ST2.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/ST2.pdf">pdf</a><b>)</b> 
+<br> <i> C.Sloper and J.A.Telle
+</i> <br> Proceedings IWPEC'06, LNCS vol 4169
+</dd>
+<p>
+<dd>
+<b> Generating graphs of bounded branchwidth</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/PPT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/PPT.pdf">pdf</a><b>)</b> 
+<br> <i> C.Paul, A.Proskurowski and J.A.Telle
+</i> <br> Proceedings WG'06, LNCS vol 4271
+</dd>
+<p>
+<dd>
+<dd>
+<b> Two birds with one stone: the best of branchwidth and treewidth with one algorithm</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/DT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/DT.pdf">pdf</a><b>)</b> 
+<br> <i> F.Dorn and J.A.Telle
+</i> <br> Proceedings LATIN'06, LNCS vol 3887
+</dd>
+<p>
+<dd>
+<dd>
+<b> New tools and simpler algorithms for branchwidth</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/PT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/PT.pdf">pdf</a><b>)</b> 
+<br> <i> C.Paul and J.A.Telle
+</i> <br> Proceedings ESA'05, 13th Annual European Symposium on ALgorithms,
+LNCS, vol 3669, 379-390.
+</dd>
+<p>
+<dd>
+<dd>
+<b> Edge-maximal graphs of branchwidth k</b>
+<br> <i> C.Paul and J.A.Telle
+</i> <br> Proceedings ICGT'05, 7th International Colloquium on Graph Theory, Electronic Notes in Discrete Mathematics, 
+vol 22, 363-368
+</dd>
+<p>
+<dd>
+<dd>
+<b> Matrix and graph orders derived from locally constrained graph homomorphisms</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FPT1.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/FPT1.pdf">pdf</a><b>)</b> 
+<br> <i> J.Fiala, D.Paulusma and J.A.Telle
+</i> <br> Proceedings MFCS'05, 30th International Symposium on Mathematical Foundations of Computer Science, LNCS vol 3618, 340-351
+</dd>
+<p>
+<dd>
+<b> Algorithms for comparability of matrices in partial orders imposed by graph homomorphisms
+</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FPT2.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/FPT2.pdf">pdf</a><b>)</b> 
+<br> <i> J.Fiala, D.Paulusma and J.A.Telle
+</i> <br>  Proceedings WG'05,  31st Workshop on Graph Theoretic Concepts in Computer Science,  LNCS vol 3787, 115-226 
+</dd>
+<p>
+<dd>
+<b> Computing Minimal Fill in $O(n^{\alpha} \log n)=o(n^{2.376}) $ Time</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HTV.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HTV.pdf">pdf</a><b>)</b> 
+<br> <i> P.Heggernes, J.A.Telle and Y.Villanger
+</i> <br>  Proceedings SODA 2005 - 16th ACM-SIAM Symposium on Discrete Algorithms. 
+</dd>
+<p>
+<dd>
+<b> Finding k disjoint triangles in a graph</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FHRST.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/FHRST.pdf">pdf</a><b>)</b> 
+<br> <i> M. Fellows, P. Heggernes, F. Rosamond, C. Sloper, and J. A. Telle
+</i> <br>  Proceedings WG'04 - 30th Workshop on Graph Theoretic Concepts in Computer Science (WG 2004), 
+Bad Honnef, Germany,June 2004, Springer Verlag, Lecture Notes in Computer Science vol 3353, 235-244
+</dd>
+<p>
+<dd>
+<b> A work-optimal coarse-grained PRAM algorithm for Lexicographically First Maximal Independent Set</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/GT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/GT.pdf">pdf</a><b>)</b> 
+<br> <i>
+J.Gustedt and J.A.Telle
+</i> <br> Proceedings 
+ICTCS'03 - 10th Italian Conference on Theoretical Computer Science,
+Bologna, Italy, October 2003, Springer Verlag, Lecture Notes in Computer Science vol 2841, pp 125-136
+</dd>
+<p>
+<dd>
+<b> A linear-time algorithm for recognition of catval graphs </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HPT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HPT.pdf">pdf</a><b>)</b> 
+<br> <i>
+M.Habib, C.Paul and J.A.Telle
+</i> <br> EUROCOMB 2003, September, Prague.
+</dd>
+<p>
+<dd>
+<b> Graph searching, elimination trees, and a generalization of bandwidth</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FHT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/FHT.pdf">pdf</a><b>)</b> 
+<br> <i> Fedor Fomin, Pinar Heggernes,  Jan Arne Telle
+</i> <br>  Proceedings FCT 2003 -  14th International Symposium on Fundamentals of Computation Theory,
+August 12-15, 2003, Malm/o, Sweden,
+Springer Verlag, Lecture Notes in Computer Science vol 2751, pp 73-85.
+</dd>
+<p>
+<dd>
+<b> Generalized H-coloring and H-covering of Trees</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FHKT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/FHKT.pdf">pdf</a><b>)</b> 
+<br> <i> Jiri Fiala, Pinar Heggernes, Petter Kristiansen, Jan Arne Telle
+</i> <br> Proceedings WG'02 - 28th International 
+Workshop on Graph-Theoretic Concepts in Computer Science, 
+Cesky Krumlov, Czech Republic, June 13-15 2002,
+Springer Verlag, Lecture Notes in Computer Science vol 2573, pp 198-210
+</dd>
+<p>
+<dd>
+<b>PRO: A model for Parallel Resource-Optimal computation</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/GGGT2.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/GGGT2.pdf">pdf</a><b>)</b> 
+<br> <i>  A.Gebremedhin, I.Guerrin, J.Gustedt and J.A.Telle
+</i> <br> Proceedings HPCS'2002 - 
+The 16th Annual International Symposium 
+on High Performance Computing Systems and Applications, IEEE,
+Moncton, NB, Canada, June 17-19, 2002.
+</dd>
+<p>
+<dd>
+<b>The treewidth of Java programs</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/GMT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/GMT.pdf">pdf</a><b>)</b> 
+<br> <i>  J.Gustedt, O.M&aelighle and J.A.Telle
+</i> <br> Proceedings ALENEX'02-
+4th Workshop on Algorithm Engineering and Experiments,
+San Francisco, January 4-5, 2002, Springer Verlag,
+Lecture Notes in Computer Science vol 2409.
+</dd>
+<p>
+<dd>
+<b>Tree-decompositions of small pathwidth</b>
+<br> (see journal version)
+<br> <i> J.A.Telle
+</i> <br> EUROCOMB 2001, September, Barcelona
+</dd>
+<p>
+<dd>
+<b>Generalized H-coloring of graphs  </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/KT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/KT.pdf">pdf</a><b>)</b> 
+<br> <i>
+P.Kristiansen and J.A.Telle
+</i> <br> Proceedings ISAAC'00 - 7th Annual International Symposium on Algorithms And Computation, Taipei, Taiwan, December 18-20 2000, Springer Verlag, Lecture Notes in Computer Science, vol 1969, pp ?-?
+</dd>
+<p>
+<dd>
+<b> Graph coloring on a coarse grained multiprocessor</b> (see journal version)
+<br> <i>
+A.Gebremedhin, I.Guerrin, J.Gustedt and J.A.Telle
+</i> <br> Proceedings WG'00 - 26th International 
+Workshop on Graph-Theoretic Concepts in Computer Science, 
+Konstanz, Germany, June 15-17 2000,
+Springer Verlag, Lecture Notes in Computer Science, vol 1928, pp 184-195
+</dd>
+<p>
+<dd>
+<b> Mod-2 independence and domination in graphs</b> (see journal version)
+<br> <i>
+M.Halldorsson, J.Kratochvil and J.A.Telle
+</i> <br> Proceedings WG'99 - 25th International 
+Workshop on Graph-Theoretic Concepts in Computer Science, 
+Ascona, Switzerland, June 17-19, 1999, 
+Springer Verlag, Lecture Notes in Computer Science vol 1665, pp 101-109.
+</dd>
+<p>
+<dd>
+<b> Multi-coloring Trees </b> (see journal version)
+<br> <i>
+M.Halldorsson, G.Korsatz, A.Proskurowski, R.Salman, H.Shachnai and 
+J.A.Telle
+</i> <br> Proceedings COCOON'99 - 
+Fifth Annual International Computing and Combinatorics Conference,
+                        July 26-28 1999, Tokyo, Japan, Springer Verlag, Lecture Notes in Computer Science vol 1627, pp. 271-280.
+</dd>
+<p>
+<dd>
+<b> From bandwidth k to pathwidth k  </b>
+<br> <i>
+A.Proskurowski and J.A.Telle
+</i> <br> Proceedings 
+ICTCS'98 - 5th Italian Conference on Theoretical Computer Science,
+Prato, Italy, November 9-11 1998, World Scientific Publishing, pp. 90-101.
+</dd>
+<p>
+<dd>
+<b> Memory requirements for table computations in partial k-tree algorithms </b> (see journal version)
+<br> <i>
+B.Aspvall, A.Proskurowski and J.A.Telle
+</i> <br> Proceedings SWAT'98 - 6th Scandinavian Workshop on
+ Algorithm Theory,
+Stockholm, Sweden, July 1998, Springer Verlag, Lecture Notes in Computer Science vol. 1432, pp. 222-233.
+</dd>
+<p>
+<dd>
+<b> Independent sets with domination constraints </b> (see journal version)
+<br> <i>
+M.Halldorsson, J.Kratochvil and J.A Telle
+</i> <br> Proceedings ICALP'98 -  
+25th International Colloquium on
+Automata, Languages and Programming,
+Aalborg, Denmark, July 13-17 1998, Springer Verlag, Lecture Notes in Computer Science vol. 1443, pp. 176-187
+</dd>
+<p>
+<dd>
+<b> Linear-time register allocation for a fixed number of registers </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BGT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/BGT.pdf">pdf</a><b>)</b> 
+<br> <i>
+H.Bodlaender, J.Gustedt and J.A.Telle
+</i> <br> Proceedings SODA'98, pp. 574-583, Ninth Annual ACM-SIAM Symposium on Discrete 
+Algorithms, San Francisco January 25-27 1998.
+</dd>
+<p>
+<dd>
+<b> Complexity of colored graph covers I. Colored directed multigraphs </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/KPTcomcol.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/KPTcomcol.pdf">pdf</a><b>)</b> 
+<br> <i>
+J.Kratochvil, A.Proskurowski and J.A.Telle
+</i> <br> Proceedings WG'97 - 23rd International 
+Workshop on Graph-Theoretic Concepts in Computer Science, 
+Berlin June 18-20,
+Springer Verlag, Lecture Notes in Computer Science Vol. 1335, pp. 242-257.
+</dd>
+<p>
+<dd>
+<b> Faster algorithms for the nonemptiness of Streett automata and for communication protocol pruning </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HT.pdf">pdf</a><b>)</b> 
+<br> <i>
+M.R.Henzinger and J.A.Telle
+</i> <br> Proceedings SWAT'96 - Fifth Scandinavian Workshop on 
+Algorithm Theory, Springer Verlag, 
+Lecture Notes in Computer Science vol.1097 (1996) 16-27.
+</dd>
+<p>
+<dd>
+<b> Making an arbitrary filled graph minimal by removing fill edges </b>
+<br> <i>
+J.Blair, P.Heggernes and J.A.Telle
+</i> <br>  Proceedings SWAT'96 - Fifth Scandinavian Workshop on 
+Algorithm Theory, Springer Verlag, 
+Lecture Notes in Computer Science vol.1097 (1996) 173-184.
+</dd>
+<p>
+<dd>
+<b> Partitioning Graphs into Generalized Dominating Sets </b> (see journal version)
+<br> <i>
+P.Heggernes and J.A.Telle
+</i> <br> Proceedings SCCC'95 - XV International Conference of the Chilean
+Computer Society, 1995, pp 241-252.
+</dd>
+<p>
+<dd>
+<b> Complexity of Graph Covering Problems </b> (see journal version)
+<br> <i>
+J.Kratochvil, A.Proskurowski and J.A.Telle
+</i> <br> Proceedings WG'94 - 20th International Workshop on Graph-Theoretical
+Concepts in Computer Science, 
+Springer-Verlag, Lecture Notes in Computer Science vol.903, 
+1995, pp 93-105.
+</dd>
+<p>
+<dd>
+<b> Practical algorithms on partial $k$-trees with an application to domination-like problems  </b>
+(see Ch.6.1 of my PhD Thesis)
+<br> <i>
+J.A.Telle and A.Proskurowski
+</i> <br> Proceedings WADS'93 -  Third Workshop on 
+Algorithms and Data
+Structures, Springer Verlag, 
+Lecture Notes in Computer Science vol.709 (1993) 610-621.
+</dd>
+<p>
+<dd>
+<b> Characterization of domination-type parameters in graphs </b>
+(see Ch.2 of my PhD Thesis)
+<br> <i>
+J.A.Telle
+</i> <br> Proceedings SCCGC'93 - 24th Southeastern
+International Conference on Combinatorics, Graph Theory and Computing
+-Congressus Numerantium
+ Vol.94  (1993) 9-16.
+</dd>
+<p>
+<dd>
+<b> OREGAMI: Software tools for mapping parallel algorithms to parallel architectures </b> (see journal version)
+<br> <i>
+V.Lo, S.Rajopadhye, S.Gupta, D.Keldsen, M.Mohamed, 
+B.Nitzberg, J.A.Telle and  X.Zhong
+</i> <br> Proceedings ICPP'90 - IEEE 1990 International 
+Conference on Parallel Processing, II:88-92, August 1990.
+</dd>
+<p>
+<dd>
+<b> Mapping divide-and-conquer algorithms to parallel architectures </b>
+<br> <i>
+V.Lo, S.Rajopadhye, S.Gupta, D.Keldsen, M.Mohamed and J.A.Telle
+</i> <br> Proceedings ICPP'90 - IEEE 1990 International 
+Conference on Parallel Processing,
+III:128-135, August 1990.
+</dd>
+<p>
+<dd>
+
+
+
+</dl>
+<A HREF="#topp">Top</A> of page &nbsp
+<P>
+
+
+<HR><A NAME="journal"></A>
+<H3>Journal Articles</H3>
+
+
+<DL>
+  <dd>
+    <p>
+<dd>
+ <b> MAP- and MLE-Based Teaching 
+  </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/ST23j.pdf">pdf</a><b>) </b> 
+<br> <i> H.U.Simon, J.A.Telle
+</i> <br> Journal of MAchine Learning Research 2024
+</dd>
+<p>
+<dd>
+ <b> Classes of Intersection Digraphs with Good Algorithmic Properties
+  </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/JKT24.pdf">pdf</a><b>) </b> 
+<br> <i> L.Jaffke, O.Kwon,           J.A.Telle
+</i> <br> Journal of Graph Theory 2024 
+</dd>
+<dd>
+<p>
+<b> Perfect Matching Cut Revisited </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BT22.pdf">pdf</a><b>)</b> 
+<br> <i> Van Bang Le, J.A.Telle
+</i> <br> Theoretical Computer Science, 2022
+</dd>
+ <p>
+<dd>
+<b> Node Multiway Cut and Subset Feedback Vertex Set on Graphs of Bounded mim-width</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BPT22.pdf">pdf</a><b>)</b> 
+<br> <i> B.Bergougnoux, C.Papadopoulos, J.A.Telle
+</i> <br> Algorithmica, 2022
+</dd>
+<p>
+<dd>
+<b> Typical Sequences Revisited- Computing Width Parameters of Graphs</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BJT.pdf">pdf</a><b>)</b> 
+<br> <i> H.Bodlaender, L.Jaffke, J.A.Telle
+</i> <br> Theory of Computing Systems, 2021
+</dd>
+<p>
+<dd>
+<b> The Teaching Size: Computable Teachers and Learners for Universal Languages </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/TFH.pdf">pdf</a><b>) </b> 
+<br> <i> J.A.Telle, C. Ferri, J. Hern&aacutendez-Orallo
+</i> <br> Machine Learning Journal, 2019, Volume 108, 1653-1675
+</dd>
+<p>
+<dd>
+<b> Mim-Width III. Graph powers and generalized distance domination problems </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/JKST19.pdf">pdf</a><b>) </b> 
+<br> <i> Lars Jaffke, O-joung Kwon, Torstein Str&oslashmme and Jan Arne Telle
+</i> <br> Theoretical Computer Science, Volume 796, 3 December 2019,  216-236
+</dd>
+<p>
+<dd>
+<b> Mim-Width II. The Feedback Vertex Set Problem </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/JKT19.pdf">pdf</a><b>) </b> 
+<br> <i> Lars Jaffke, O-joung Kwon, and Jan Arne Telle
+</i> <br> Algorithmica 82, 118-145, (2020)
+</dd>
+<p>
+<dd>
+<b> Mim-Width I. Induced Path Problems </b> 
+<b> (</b><a href="http://www.ii.uib.no/~telle/bib/JKT19b.pdf">pdf</a><b>) </b> 
+<br> <i> Lars Jaffke, O-joung Kwon, and Jan Arne Telle
+</i> <br> To appear Discrete Applied Mathematics, Available online 16 July 2019
+</dd>
+<p>
+<dd>
+<b> FPT algorithms for domination in sparse graphs and beyond</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/TV18.pdf">pdf</a><b>)</b> 
+<br> <i> J.A.Telle, Y.Villanger
+</i> <br> Theoretical Computer Science, vol 770, 62-68, 2019
+</dd>
+<p>
+<dd>
+<b> Max-matching-width: new characterizations and a fast algorithm for dominating set </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/JST17.pdf">pdf</a><b>)</b> 
+<br> <i>J.Jeong, S.S&aeligther , J.A.Telle
+</i> <br> Discrete Applied Mathematics 248: 114-124, 2018
+</dd>
+<p>
+<dd>
+<b> A width parameter useful for chordal and co-comparability graphs </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/KKST17.pdf">pdf</a><b>)</b> 
+<br> <i> D.Y.Kang, O.Kwon, T.Str&oslashmme, J.A.Telle
+</i> <br> Theoretical Computer Science, Volume 704, 1-17, 15 December 2017
+</dd>
+<p>
+<dd>
+<b> Definability equals recognizability for k-outerplanar graphs and l-chordal partial k-trees </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BHJT16.pdf">pdf</a><b>)</b> 
+<br> <i>L.Jaffke, H.Bodlaender, P.Heggernes, J.A.Telle
+</i> <br> European Journal of Combinatorics 66: 191-234, 2017
+</dd>
+<p>
+<dd>
+<b> Between treewidth and clique-width </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/ST14.pdf">pdf</a><b>)</b> 
+<br> <i>S.S&aeligther, J.A.Telle
+</i> <br> Algorithmica 75(1): 218-253, 2016
+</dd>
+<p>
+<dd>
+<b> Computational complexity of covering three-vertex multigraphs </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/KTT.pdf">pdf</a><b>)</b> 
+<br> <i>J.Kratochvil, J.A.Telle, M.Tesar
+</i> <br> Theoretical Computer Science 609: 104-117, 2016
+</dd>
+<p>
+<dd>
+<b> Solving MAXSAT and #SAT by dynamic programming </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/STV15.pdf">pdf</a><b>)</b> 
+<br> <i>S.S&aeligther, J.A.Telle, M.Vatshelle
+</i> <br> Journal of Artifical Intelligence Research,  vol 54, 59-82, 2015
+</dd>
+<p>
+<dd>
+<b> The graph formulation of the union-closed sets conjecture  </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BCST14.pdf">pdf</a><b>)</b> 
+<br> <i> Henning Bruhn, Pierre Charbit, Oliver Schaudt, Jan Arne Telle
+</i> <br> European Journal of Combinatorics  ;Volume 43. p. 210-219, 2015
+</dd>
+<p>
+<dd>
+<b> Fast dynamic programming for locally checkable vertex subset and vertex partitioning problems </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BTV12.pdf">pdf</a><b>)</b> 
+<br> <i> B-M.Bui-Xuan, J.A.Telle and M.Vatshelle
+</i> <br> Theoretical Computer Science, 511: 66-76 (2013)
+</dd>
+<p>
+<dd>
+<b> Feedback Vertex Set on Graphs of low Cliquewidth</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BSTV.pdf">pdf</a><b>)</b> 
+<br> <i> B.M.Bui-Xuan, O. Suchy, J.A.Telle, M.Vatshelle
+</i> <br> European Journal of Combinatorics. 34(3): 666-679 (2013)
+</dd>
+<p>
+<dd>
+<b> Chordal digraphs</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/MTj.pdf">pdf</a><b>)</b> 
+<br> <i> D.Meister and J.A.Telle
+</i> <br> Theoretical Computer Science, 463: 73-83 (2012)
+</dd>
+<p>
+<dd>
+<b> Boolean-width of graphs </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BTV11.pdf">pdf</a><b>)</b> 
+<br> <i> B-M.Bui-Xuan, J.A.Telle and M.Vatshelle
+</i> <br> Theoretical Computer Science 412(39): 5187-5204 (2011)
+</dd>
+<p>
+<dd>
+<b> On the complexity of reconstructing $H$-free graphs from their Star Systems</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FKLMT2.pdf">pdf</a><b>)</b> 
+<br> <i> F.Fomin, J.Kratochvil, D.Lokshtanov, F.Mancini and J.A.Telle
+</i> <br> Journal of Graph Theory 68(2): 113-124 (2011) 
+</dd>
+<p>
+<dd>
+<b> H-join decomposable graphs and algorithms with runtime single exponential in rankwidth </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BTV.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/BTV.pdf">pdf</a><b>)</b> 
+<br> <i> B-M.Bui-Xuan, J.A.Telle and M.Vatshelle
+</i> <br> Discrete Applied Mathematics 2010 ;Volume 158.(7) p. 809-819
+</dd>
+<p>
+<dd>
+<b> Recognizing digraphs of Kelly-width 2 </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/MTV2.ps">ps</a>)</b> 
+<br> <i> D.Meister, J.A.Telle and M.Vatshelle
+</i> <br> Discrete Applied Mathematics 2010 ;Volume 158.(7) p. 741-746
+</dd>
+<p>
+<dd>
+<b> Interval Completion is Fixed Parameter Tractable</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/VHPT.pdf">pdf</a><b>)</b> 
+<br> <i> Y.Villanger, P.Heggernes, C.Paul and J.A.Telle
+</i> <br> SIAM Journal on Computing. Volume 38.(5) p. 2007-2020. 2009
+</dd>
+<p>
+<dd>
+<b> Edge-maximal graphs of branchwidth k: the k-branches</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/PT2.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/PT2.pdf">pdf</a><b>)</b> 
+<br> <i> C.Paul and J.A.Telle
+</i> <br> Discrete Mathematics. Volume 309.(6) p. 1467-1475. 2009
+</dd>
+<p>
+<p>
+<dd>
+<dd>
+<b> Branchwidth of chordal graphs</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/PT3.pdf">pdf</a><b>)</b> 
+<br> <i> C.Paul and J.A.Telle
+</i> <br> Discrete Applied Mathematics. Volume 157.(12) p. 2718-2725. 2009
+</dd>
+<p>
+<dd>
+<dd>
+<b> Seminice tree-decompositions: the best of branchwidth, treewidth and pathwidth with one algorithm </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/DT2.ps">ps</a><b>)</b> 
+<br> <i> F.Dorn and J.A.Telle
+</i> <br> Discrete Applied Mathematics. Volume 157.(12) p. 2737-2746. 2009
+</dd>
+<p>
+<dd>
+<b> Locally constrained graph homomorphisms and equitable partitions</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FPT4.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/FPT4.pdf">pdf</a><b>)</b> 
+<br> <i> J.Fiala, D.Paulusma and J.A.Telle
+</i> <br> European Journal of Combinatorics. Volume 29.(4) p. 850-880
+</dd>
+<p>
+<dd>
+<b> An overview of techniques for designing parameterized algorithms</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/ST.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/ST.pdf">pdf</a><b>)</b> 
+<br> <i> C.Sloper and J.A.Telle
+</i> <br> The Computer Journal 2008, vol.51, nr 1, 102-121
+</dd>
+<p>
+<dd>
+<b> Planar decompositions and the crossing number of graphs with an excluded minor</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/WT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/WT.pdf">pdf</a><b>)</b> 
+<br> <i> D.Wood and J.A.Telle
+</i> <br> New York Journal of Mathematics, Vol.13, 2007, 117-146
+</dd>
+<p>
+<dd>
+<b>PRO: A Model for the Design and Analysis of Efficient and Scalable Parallel Algorithms</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/EGGGT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/EGGGT.pdf">pdf</a><b>)</b> 
+<br> <i>  A.Gebremedhin, M.Essaidi, I.Guerrin, J.Gustedt and J.A.Telle
+</i> <br>  Nordic Journal of Computing vol 13-4, 2006 
+</dd>
+<p>
+<dd>
+<b> Computing Minimal Triangulations in $O(n^{\alpha} \log n)=o(n^{2.376}) $ Time</b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HTV2.ps">ps</a><b>)</b> 
+<br> <i> P.Heggernes, J.A.Telle and Y.Villanger
+</i> <br>  SIAM J. Discrete Math. 19-4:900-913, 2005
+</dd>
+<p>
+<dd>
+<b>Tree-decompositions of small pathwidth</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/T.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/T.pdf">pdf</a><b>)</b>
+<br> <i> J.A.Telle
+</i> <br> Discrete Applied Mathematics, vol 145(2), 210-218, 2005
+</dd>
+<p>
+<dd>
+<b>Space-efficient construction variants of dynamic programming</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/BT.pdf">pdf</a><b>)</b>
+<br> <i> H.Bodlaender, J.A.Telle
+</i> <br> Nordic Journal of Computing 11, 374-385, 2004
+</dd>
+<p>
+<dd>
+<b>Graph searching, elimination trees, and a generalization of bandwidth</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/FHTj.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/FHTj.pdf">pdf</a><b>)</b>
+<br> <i> F.Fomin, P.Heggernes, J.A.Telle
+</i> <br> Algorithmica 41-2, 73-87, 2004
+</dd>
+<p>
+<dd>
+<b>Iterated coloring </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HMPT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HMPT.pdf">pdf</a><b>)</b> 
+<br> <i>
+S.M.Hedetniemi, S.T.Hedetniemi, A.McRae, D.Parks and J.A.Telle
+</i> <br> Discrete Mathematics, Volume 278, Issues 1-3, 6 March 2004, Pages 81-108 
+</dd>
+<p>
+<dd>
+<b> Generalized H-coloring and H-covering of Trees</b> 
+<br> <i> Jiri Fiala, Pinar Heggernes, Petter Kristiansen, Jan Arne Telle
+</i> <br> Nordic Journal of Computing 2003 10 (3) 206-224
+</dd>
+<p>
+<dd>
+<b> Multi-coloring Trees </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HKPSST.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HKPSST.pdf">pdf</a><b>)</b> 
+<br> <i>
+M.Halldorsson, G.Korsatz, A.Proskurowski, R.Salman, H.Shachnai and 
+J.A.Telle
+</i> <br> Information and Computation 180 (2003), 113-129, 2003.
+</dd>
+<p>
+<dd>
+<b> Graph coloring on a coarse grained multiprocessor</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/GGGT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/GGGT.pdf">pdf</a><b>)</b> <br> <i>
+A.Gebremedhin, I.Guerrin, J.Gustedt and J.A.Telle
+</i> <br> Discrete Applied Mathematics Vol 131/1, pp 179-198, 2003.
+</dd>
+<p>
+<dd>
+<b>A Practical Algorithm for Making Filled Graphs Minimal</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/BHT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/BHT.pdf">pdf</a><b>)</b> <br> <i>
+J.Blair, P.Heggernes, and J.A.Telle
+</i> <br> Theoretical Computer Science 250-1/2 (2001), pages 125-141.
+</dd>
+<p>
+<dd>
+<b> Mod-2 independence and domination in graphs</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HKTmod.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HKTmod.pdf">pdf</a><b>)</b> <br> <i>
+M.Halldorsson, J.Kratochvil and J.A.Telle
+</i> <br> International Journal of 
+Foundations of Computer Science Vol. 11, No. 3, 2000
+</dd>
+<p>
+<dd>
+<b> Memory requirements for table computations in partial k-tree algorithms </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/APT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/APT.pdf">pdf</a><b>)</b> <br> <i>
+B.Aspvall, A.Proskurowski and J.A.Telle
+</i> <br> Algorithmica Vol. 27, Number 3, 2000, 382-394.
+</dd>
+<p>
+<dd>
+<b> Independent sets with domination constraints </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HKTind.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/HKTind.pdf">pdf</a><b>)</b> <br> <i>
+M.Halldorsson, J.Kratochvil and J.A Telle
+</i> <br> Discrete Applied Mathematics 99 (1-3) 39-54, 1999
+</dd>
+<p>
+<dd>
+<b> Classes of graphs with restricted interval models</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/PTdmtcs.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/PTdmtcs.pdf">pdf</a><b>)</b> <br> <i>
+A.Proskurowski and J.A.Telle
+</i> <br> Discrete Mathematics and Theoretical Computer Science 4 (1999), 135-144
+</dd>
+<p>
+<dd>
+<b> Complexity of graph covering problems</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/KPTcom.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/KPTcom.pdf">pdf</a><b>)</b> <br> <i>
+J.Kratochvil, A.Proskurowski and J.A.Telle
+</i> <br> Nordic Journal of Computing 5 (1998), 173-195
+</dd>
+<p>
+<dd>
+<b>Partitioning Graphs Into Generalized Dominating Sets</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/HTpar.ps">ps</a>, <a href="http://www.ii.uib.no/~telle/bib/HTpar.pdf">pdf</a><b>)</b>
+<br>
+<i> Pinar Heggernes and Jan Arne Telle</i><br>
+Nordic Journal of Computing 5-2 (1998), pages 128-142.
+</dd>
+<p>
+<dd>
+<b> Algorithms for Vertex Partitioning Problems on Partial k-Trees</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/TP.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/TP.pdf">pdf</a><b>)</b> <br> <i>
+J.A.Telle and A.Proskurowski
+</i> <br> SIAM Journal on Discrete Mathematics Vol. 10, No. 4, pp. 529-550, 
+November 1997
+</dd>
+<p>
+<dd>
+<b> Covering regular graphs</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/KPTcov.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/KPTcov.pdf">pdf</a><b>)</b> <br> <i>
+J.Kratochvil, A.Proskurowski and J.A.Telle
+</i> <br> Journal of Combinatorial Theory - Series B vol.71, No.1 (1997) 1-16.
+</dd>
+<p>
+<dd>
+<b> Parallel divide-and-conquer on meshes</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/LRTZ.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/LRTZ.pdf">pdf</a><b>)</b>  
+<br>
+<i>
+V.Lo, S.Rajopadhye, J.A.Telle and X.Zhong
+</i> <br> IEEE 
+Transactions on Parallel and Distributed Systems vol.7, No. 10, October 1996,
+1049-1059.
+</dd>
+<p>
+<dd>
+<b> Complexity of domination-type problems in graphs</b>
+(see Ch.3 of my PhD Thesis)
+<br> <i>
+J.A.Telle
+</i> <br>  Nordic Journal of Computing 1 (1994) 157-171.
+</dd>
+<p>
+<dd>
+<b> Efficient sets in partial $k$-trees</b>
+<br> <i>
+J.A.Telle and A.Proskurowski
+</i> <br>  Discrete Applied Mathematics
+44 (1993) 109-117.
+</dd>
+<p>
+<dd>
+<b> OREGAMI: Tools for mapping parallel computations to parallel architectures</b>
+<br>(</b><a href="http://www.ii.uib.no/~telle/bib/LRGKT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/LRGKT.pdf">pdf</a><b>)</b> 
+<br> <i>
+V.Lo, S.Rajopadhye, S.Gupta, D.Keldsen, M.Mohamed, B.Nitzberg, J.A.Telle and X.Zhong
+</i> <br>  International Journal of Parallel Programming, 
+Vol.20, No. 3, June 1991, 237-270. 
+</dd>
+<p>
+<dd>
+
+
+
+
+
+
+</dl>
+<A HREF="#topp">Top</A> of page.&nbsp;
+<p>
+
+<HR><A NAME="books"></A>
+<H3>Books</H3>
+<dl>
+<p>
+<dd>
+<b>Special Issue Dedicated to the 14th International Symposium on Parameterized and Exact Computation</b> 
+<br> <i>
+Bart Jansen, Jan Arne Telle (editors)
+</i> <br> </b>  Algorithmica 83(8): 2469-2470 (2021)
+</b> 
+</dd>
+<p>
+<p>
+<dd>
+<b>
+Proceedings IPEC 2019, September 11-13, 2019, Munich, Germany</b> 
+<br> <i>
+Bart Jansen, Jan Arne Telle (editors)
+</i> <br> </b>  LIPIcs 148, Schloss Dagstuhl - Leibniz-Zentrum für Informatik 2019, ISBN 978-3-95977-129-0
+</b> 
+</dd>
+<p>
+<p>
+<dd>
+<b>Fundamentals of Computation Theory </b> 
+<br> <i>
+Olaf Owe, Martin Steffen, Jan Arne Telle (editors)
+</i> <br> Proceedings 18th International Symposium, FCT 2011, Oslo, Norway, August 22-25, 2011. </b> 
+Lecture Notes in Computer Science 6914, Springer 2011</b> 
+</dd>
+<p>
+<dd>
+<b> European Conference on Combinatorics, Graph Theory and Application</b> 
+<br> <i>
+Jaroslav Nesetril, Oriol Serra, Jan Arne Telle (editors)
+</i> <br> Proceedings EUROCOMB 2015, Bergen, Norway, August 31-September 4, 2015 </b> 
+Electronic Notes in Discrete Mathematics</b> 
+</dd>
+<p>  
+<dd>
+</dl>
+<A HREF="#topp">Top</A> of page.&nbsp;
+<p>
+
+
+<HR><A NAME="int"></A>
+<H3>Technical Reports (with contents not among those papers listed above)</H3>
+
+<dl>
+<dd>
+<b> A linear-time algorithm to find a graph with prescribed
+degrees of adjacent vertices </b>
+<br> <i>
+J.A.Telle
+</i> <br> TR 129, December 1996, University of Bergen.
+</dd>
+<p>
+<dd>
+<b>A simple cubic algorithm for minimum height elimination trees of interval 
+graphs </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/AHT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/AHT.pdf">pdf</a><b>)</b> 
+<br> <i>
+B.Aspvall, P.Heggernes and J.A.Telle
+</i> <br> TR 103, January 1995, University of Bergen
+</dd>
+<p>
+<dd>
+<b> Vertex Partitioning Problems:
+Characterization, Complexity and Algorithms on Partial k-Trees, </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/Tth.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/Tth.pdf">pdf</a><b>)</b> 
+<br> <i>
+J.A.Telle
+</i> <br> Ph.D. Thesis, Computer and Information Sciences Department, University
+of Oregon, CIS-TR-18-94.
+</dd>
+<p>
+<dd>
+<b>LARCS: A language for describing parallel computations for the purpose of 
+mapping  </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/LRMNT.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/LRMNT.pdf">pdf</a><b>)</b> 
+<br> <i>
+V.Lo, S.Rajopadhye, M.Mohamed, B.Nitzberg, J.A.Telle and X.Zhong
+</i> <br> CIS-TR-90-16 (originally accepted to IEEE TPDS but withdrawn due to delays)
+</dd>
+<p>
+<dd>
+
+
+
+</dl>
+<A HREF="#topp">Top</A> of page.&nbsp;
+<p>
+
+<HR>Popular science<A NAME="pop"></A>
+<H3></H3>
+
+<dl>
+<p>
+<dd>
+<b>Den nye maskinl&aelig;ringen: kunstig intelligens eller bare gode verkt&oslash;y?</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/Tellennt.pdf">pdf)</a>  
+<br> <i>
+J.A.Telle
+</i> <br> Nytt Norsk Tidsskrift 2-2017
+</dd>
+<p>
+<dd>
+<b>Algoritmer skapes av mennesker</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/morg15.pdf">pdf)</a>
+<br> <i>
+J.A.Telle
+</i> <br> Morgenbladet 25.september 2015
+</dd>
+<p>
+<dd>
+<b> Mike Fellows: Weaving the web of mathematics and adventure </b> 
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/mike.pdf">pdf</a><b>)</b> 
+<br> <i> J.A.Telle
+</i> <br> The Multivariate Algorithmic Revolution and Beyond,
+LNCS, Volume 7370, 74-79, 2012
+</dd>
+<p>
+<dd>
+<b>N&aring kan robotene snakke sammen</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/bt3.pdf">pdf</a><b>)</b> 
+<br> <i>
+J.A.Telle
+</i> <br> Bergens Tidende  4.november 2012
+</dd>
+<p>
+<p>
+<dd>
+<b>Jakten p&aring absolutt visshet</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/bt2.pdf">pdf</a><b>)</b> 
+<br> <i>
+J.A.Telle
+</i> <br> Bergens Tidende 23.august 2012
+</dd>
+<p>
+<p>
+<dd>
+<b>Er du venn med en robot?</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/morg.pdf">pdf)</a>
+<br> <i>
+P.G.Drange and J.A.Telle
+</i> <br> Morgenbladet 22.juni 2012
+</dd>
+<p>
+<dd>
+<b>S&aring;dde fr&oslash;ene til datarevolusjonen</b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/bt.pdf">pdf</a><b>)</b> 
+<br> <i>
+P.G.Drange and J.A.Telle
+</i> <br> Bergens Tidende 22.juni 2012
+</dd>
+<p>
+<dd>
+<b> Hva er datamaskinens fundamentale begrensninger? </b>
+<b>(</b><a href="http://www.ii.uib.no/~telle/bib/Thva.ps">ps</a>,
+<a href="http://www.ii.uib.no/~telle/bib/Thva.pdf">pdf</a><b>)</b> 
+<br> <i>
+J.A.Telle
+</i> <br> QED 2-97 student newspaper, U.Bergen.
+</dd>
+<p>
+<dd>
+
+</dl>
+<A HREF="#topp">Top</A> of page.&nbsp;
+<p>
+<hr>
+<p>
