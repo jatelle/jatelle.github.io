@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+<body>
+
+<h2 class="w3-center">Manual Slideshow</h2>
+
+<div class="w3-content w3-display-container">
+
+<div class="w3-content" style="max-height:500px">
+
+<img class="mySlides" src="1Faja7.jpg"> <!-- style="width:100%"> -->
+<img class="mySlides" src="1Faja7a.jpg">
+<img class="mySlides" src="1Faja8.jpg">
+<img class="mySlides" src="1Faja8b.jpg">
+<img class="mySlides" src="1Faja8d.jpg">
+<img class="mySlides" src="1Faja8e.jpg">
+<img class="mySlides" src="2kjeller.jpg">
+<img class="mySlides" src="2kjk.jpg">
+<img class="mySlides" src="2stue0.jpg">
+<img class="mySlides" src="tegning.jpg">
+<img class="mySlides" src="3plan.jpg">
+<img class="mySlides" src="3plan2.jpg">
+<img class="mySlides" src="3plan3.jpg">
+<img class="mySlides" src="4bad1.jpg">
+<img class="mySlides" src="4bad2.jpg">
+<img class="mySlides" src="4bad3.jpg">
+<img class="mySlides" src="4bad3a.jpg">
+<img class="mySlides" src="4bad4.jpg">
+<img class="mySlides" src="4bad4a.jpg">
+<img class="mySlides" src="4bad4b.jpg">
+<img class="mySlides" src="4bad4c.jpg">
+<img class="mySlides" src="4bad5.jpg">
+<img class="mySlides" src="4ute5.jpg">
+<img class="mySlides" src="4ute6.jpg">
+<img class="mySlides" src="4ute7.jpg">
+<img class="mySlides" src="5kjk3.jpg">
+<img class="mySlides" src="5kjk4.jpg">
+<img class="mySlides" src="5kjk4a.jpg">
+<img class="mySlides" src="5kjk4b.jpg">
+<img class="mySlides" src="5kjk5.jpg">
+<img class="mySlides" src="5kjk5a.jpg">
+<img class="mySlides" src="6stue6.jpg">
+<img class="mySlides" src="6stue7.jpg">
+<img class="mySlides" src="7bad6.jpg">
+<img class="mySlides" src="7ter2.jpg">
+<img class="mySlides" src="7ter2a.jpg">
+<img class="mySlides" src="7ter3.jpg">
+<img class="mySlides" src="7ter3a.jpg">
+<img class="mySlides" src="7ter4.jpg">
+<img class="mySlides" src="9bas1.jpg">
+<img class="mySlides" src="9bas2.jpg">
+<img class="mySlides" src="9bas5.jpg">
+<img class="mySlides" src="9bas5a.jpg">
+<img class="mySlides" src="9bas6.jpg">
+<img class="mySlides" src="9bas7.jpg">
+<img class="mySlides" src="9bas9.jpg">
+<img class="mySlides" src="9bas9a.jpg">
+<img class="mySlides" src="9bas9b.jpg">
+<img class="mySlides" src="image-1.jpg">
+<img class="mySlides" src="p9f.jpg">
+<img class="mySlides" src="alp.jpg">
+<img class="mySlides" src="p0a.jpg">
+<img class="mySlides" src="p1.jpg">
+<img class="mySlides" src="p1a.jpg">
+<img class="mySlides" src="bas.jpg">
+<img class="mySlides" src="p4.jpg">
+<img class="mySlides" src="p5.jpg">
+<img class="mySlides" src="p8a.jpg">
+<img class="mySlides" src="p8b.jpg">
+<img class="mySlides" src="p8c.jpg">
+<img class="mySlides" src="p8.jpg">
+<img class="mySlides" src="p9a.jpg">
+<img class="mySlides" src="p9b.jpg">
+<img class="mySlides" src="p9c.jpg">
+<img class="mySlides" src="p9d.jpg">
+<img class="mySlides" src="p9e.jpg">
+<img class="mySlides" src="hage1.jpg">
+<img class="mySlides" src="vind.jpg">
+<img class="mySlides" src="p2.jpg">
+<img class="mySlides" src="tog.jpg">
+
+
+
+  
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
